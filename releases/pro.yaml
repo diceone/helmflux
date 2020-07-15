@@ -13,6 +13,6 @@ spec:
     ref: master
   values:
     environment: production
-    replicaCount: 3
+    replicaCount: 1
     ingress:
       host: mywebserver.pro.kubesandclouds.com
